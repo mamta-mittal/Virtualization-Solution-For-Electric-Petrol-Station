@@ -1,0 +1,2 @@
+# Virtualization-Solution-For-Electric-Petrol-Station
+To provide a highly available virtualization solution for electric petrol service  station which consists of two Data Centres, Head Office and 60+ service stations. Server hardware, ancillary equipments(UPS,KVM,PDUs etc), minimum VMs required for clients AD Domain Controller with DNS/DHCP, File and Print Server, Database Server, Web Server for Application Server were to be provided
